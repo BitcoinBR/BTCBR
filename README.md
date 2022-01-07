@@ -4,6 +4,9 @@ BTCBR contract code (Chains)
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 
+Wrapped BitcoinBR (WBTCBR) on Binance smart chain (BSC)
+Contract: 0x2919b42e28ba205b56712425d09d98d3bdeb7b1a
+
 BitcoinBR (BTCBR) on Polygon Network (MATIC)
 Contract: 0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482
 
