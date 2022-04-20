@@ -1,5 +1,8 @@
 # BTCBR
-BTCBR contract code (Chains)
+Official BitcoinBR (BTCBR) smart contracts (Chains)
+Twitter: https://twitter.com/bitcoinbr_info
+Telegram: https://t.me/BitcoinBR_Info
+Discord: https://discord.gg/MP3Vyuh5xf
 
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
