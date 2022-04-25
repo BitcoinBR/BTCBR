@@ -11,6 +11,9 @@ Discord: https://discord.gg/MP3Vyuh5xf
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 
+Gueddy Finance (GUEDDY) on Binance smart chain (BSC)
+Contract: 0xa593a6a46dc4290c93dc794bf069074709abeb99
+
 Wrapped BitcoinBR (WBTCBR) on Binance smart chain (BSC)
 Contract: 0x2919b42e28ba205b56712425d09d98d3bdeb7b1a
 
