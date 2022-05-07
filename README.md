@@ -11,6 +11,9 @@ Discord: https://discord.gg/MP3Vyuh5xf
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 
+ZFinance (ZFI)
+Contract: 0x9dcbd14a09aeeb4670b2acf3631831d50ad7d7bb
+
 Gueddy Finance (GUEDDY) on Binance smart chain (BSC)
 Contract: 0xa593a6a46dc4290c93dc794bf069074709abeb99
 
