@@ -11,6 +11,9 @@ Discord: https://discord.gg/MP3Vyuh5xf
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 
+BitcoinBR Buy Back (BTCBRBB) on Binance smart chain (BSC)
+Contract: 0xdc5f06039600ba53011eccf8739ddd37b3c03d2b
+
 ZFinance (ZFI)
 Contract: 0x9dcbd14a09aeeb4670b2acf3631831d50ad7d7bb
 
