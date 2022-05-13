@@ -14,11 +14,17 @@ Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 BitcoinBR Buy Back (BTCBRBB) on Binance smart chain (BSC)
 Contract: 0xdc5f06039600ba53011eccf8739ddd37b3c03d2b
 
-ZFinance (ZFI)
+Bitcoin DeFi (BTCFI) on Binance smart chain (BSC)
+Contract: 0xcc9b189401076cdee1fa856e03b0dabbbecaf865
+
+ZFinance (ZFI) on Binance smart chain (BSC)
 Contract: 0x9dcbd14a09aeeb4670b2acf3631831d50ad7d7bb
 
 Gueddy Finance (GUEDDY) on Binance smart chain (BSC)
 Contract: 0xa593a6a46dc4290c93dc794bf069074709abeb99
+
+ZFI UniVerse Finance (uniV) on Binance smart chain (BSC)
+Contract: 0x18a0dc43863186c0878fc29af99c4f3079aa8c98
 
 Wrapped BitcoinBR (WBTCBR) on Binance smart chain (BSC)
 Contract: 0x2919b42e28ba205b56712425d09d98d3bdeb7b1a
