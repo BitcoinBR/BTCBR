@@ -11,6 +11,9 @@ Discord: https://discord.gg/MP3Vyuh5xf
 BitcoinBR (BTCBR) on Binance smart chain (BSC)
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
 
+Bitcoin Trade (BTCTRADE) on Binance smart chain (BSC)
+Contract: 0xdcc342647a84d25220e0c4b4cde3ed39ff68f099
+
 BitcoinBR Buy Back (BTCBRBB) on Binance smart chain (BSC)
 Contract: 0xdc5f06039600ba53011eccf8739ddd37b3c03d2b
 
