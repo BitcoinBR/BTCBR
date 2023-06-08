@@ -7,30 +7,12 @@ Telegram: https://t.me/BitcoinBR_Info
 
 Discord: https://discord.gg/MP3Vyuh5xf
 
+BitcoinBR (BTCBR) on Binance smart chain (BSC) [Audited]
+Contract: 0x55d6043859dbe45e0a2571ea64b3855062fd86d8
+More Info: https://www.btcbr.info/btcbr-token-bsc/
 
-BitcoinBR (BTCBR) on Binance smart chain (BSC)
+BitcoinBR [OLD] (BTCBR) on Binance smart chain (BSC) [Community Token]
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
-
-Bitcoin Trade (BTCTRADE) on Binance smart chain (BSC)
-Contract: 0xdcc342647a84d25220e0c4b4cde3ed39ff68f099
-
-BitcoinBR Buy Back (BTCBRBB) on Binance smart chain (BSC)
-Contract: 0xdc5f06039600ba53011eccf8739ddd37b3c03d2b
-
-Bitcoin DeFi (BTCFI) on Binance smart chain (BSC)
-Contract: 0xcc9b189401076cdee1fa856e03b0dabbbecaf865
-
-ZFinance (ZFI) on Binance smart chain (BSC)
-Contract: 0x9dcbd14a09aeeb4670b2acf3631831d50ad7d7bb
-
-Gueddy Finance (GUEDDY) on Binance smart chain (BSC)
-Contract: 0xa593a6a46dc4290c93dc794bf069074709abeb99
-
-ZFI UniVerse Finance (uniV) on Binance smart chain (BSC)
-Contract: 0x18a0dc43863186c0878fc29af99c4f3079aa8c98
-
-Wrapped BitcoinBR (WBTCBR) on Binance smart chain (BSC)
-Contract: 0x2919b42e28ba205b56712425d09d98d3bdeb7b1a
 
 BitcoinBR (BTCBR) on Polygon Network (MATIC)
 Contract: 0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482
@@ -94,6 +76,27 @@ Contract: 0xC565811631a15d110B8Dc8853b810232E489D0EF
 
 BitcoinBR Protocol (BTCBRP) on Binance smart chain (BSC)
 Contract: 0xb0476237cb0e7af0e152c15c4008b285b391f6c3
+
+Bitcoin Trade (BTCTRADE) on Binance smart chain (BSC)
+Contract: 0xdcc342647a84d25220e0c4b4cde3ed39ff68f099
+
+BitcoinBR Buy Back (BTCBRBB) on Binance smart chain (BSC)
+Contract: 0xdc5f06039600ba53011eccf8739ddd37b3c03d2b
+
+Bitcoin DeFi (BTCFI) on Binance smart chain (BSC)
+Contract: 0xcc9b189401076cdee1fa856e03b0dabbbecaf865
+
+ZFinance (ZFI) on Binance smart chain (BSC)
+Contract: 0x9dcbd14a09aeeb4670b2acf3631831d50ad7d7bb
+
+Gueddy Finance (GUEDDY) on Binance smart chain (BSC)
+Contract: 0xa593a6a46dc4290c93dc794bf069074709abeb99
+
+ZFI UniVerse Finance (uniV) on Binance smart chain (BSC)
+Contract: 0x18a0dc43863186c0878fc29af99c4f3079aa8c98
+
+Wrapped BitcoinBR (WBTCBR) on Binance smart chain (BSC)
+Contract: 0x2919b42e28ba205b56712425d09d98d3bdeb7b1a
 
 BitcoinBR Finance (BTCBRF) on Binance smart chain (BSC)
 Contract: 0x4b2176bbdab811dd9407f5cf7b7557d403f2b5f6
